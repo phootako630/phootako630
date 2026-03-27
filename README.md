@@ -14,13 +14,6 @@ Fullstack engineer transitioning into the AI systems space. I build production-g
 
 ---
 
-### Projects
-
-- 🏥 [Warfarin INR Monitor](https://github.com/phootako630/Warfarin-inr-monitor) — Health tracking app for cardiac patients monitoring INR levels, blood pressure, and medication dosage. React · TypeScript · Supabase · Recharts
-- 🤖 [Clawdbot](https://github.com/phootako630/clawdbot) — AI health assistant for cardiac valve replacement patients.
-
----
-
 ### Tech
 
 **Core:** `TypeScript` `Python` `React` `Node.js` `PostgreSQL` `Supabase`
