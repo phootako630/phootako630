@@ -2,7 +2,7 @@
 
 **Software Engineer @ Citi** · Toronto, Canada
 
-I build fullstack applications — mostly with TypeScript, React, and Node.js. Currently exploring health-tech side projects and generative AI.
+I build fullstack applications — mostly with TypeScript, React, and Node.js. Currently exploring health-tech side projects with Agentic AI.
 
 ---
 
