@@ -2,18 +2,34 @@
 
 **Software Engineer @ Citi** · Toronto, Canada
 
-I build fullstack applications — mostly with TypeScript, React, and Node.js. Currently exploring health-tech side projects with Agentic AI.
+Fullstack engineer transitioning into the AI systems space. I build production-grade web applications, and I'm actively going deep on agentic AI — designing multi-agent workflows, building harness infrastructure for LLM evaluation and testing, and thinking about how autonomous systems are orchestrated at scale.
 
 ---
 
-### What I'm working on
+### Current Focus
 
-- 🏥 [Warfarin INR Monitor](https://github.com/phootako630/Warfarin-inr-monitor) — A health tracking app for cardiac patients to monitor INR levels, blood pressure, and medication dosage. Built with React, TypeScript, Supabase, and Recharts.
-- 🧩 [GenAI Puzzle Game](https://github.com/phootako630/ai-puzzle-game) — An AI-powered puzzle game built with TypeScript.
+- **Agentic AI & Multi-Agent Orchestration** — Designing systems where LLM agents collaborate, delegate, and self-correct. Interested in agent memory, tool use, planning loops, and failure recovery.
+- **LLM Harness Engineering** — Building evaluation and testing infrastructure for language model outputs: prompt versioning, structured output validation, regression harnesses, and benchmark pipelines.
+- **Fullstack Product Development** — Still shipping real products. TypeScript, React, Supabase — from schema to UI.
 
-### Tech I work with
+---
 
-`TypeScript` `React` `Next.js` `Vue` `Nuxt` `Node.js` `Python` `Tailwind CSS` `Supabase` `PostgreSQL`
+### Projects
+
+- 🏥 [Warfarin INR Monitor](https://github.com/phootako630/Warfarin-inr-monitor) — Health tracking app for cardiac patients monitoring INR levels, blood pressure, and medication dosage. React · TypeScript · Supabase · Recharts
+- 🤖 [Clawdbot](https://github.com/phootako630/clawdbot) — AI health assistant for cardiac valve replacement patients.
+
+---
+
+### Tech
+
+**Core:** `TypeScript` `Python` `React` `Node.js` `PostgreSQL` `Supabase`
+
+**AI / Agents:** `LLM orchestration` `multi-agent systems` `prompt engineering` `RAG` `evaluation harnesses`
+
+**Infrastructure:** `REST APIs` `Tailwind CSS` `Vite` `Next.js` `Vue / Nuxt`
+
+---
 
 ### Elsewhere
 
