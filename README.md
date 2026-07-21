@@ -9,7 +9,7 @@ Fullstack engineer transitioning into the AI systems space. I build production-g
 ### Current Focus
 
 - **Agentic AI & Multi-Agent Orchestration** — Designing systems where LLM agents collaborate, delegate, and self-correct. Interested in agent memory, tool use, planning loops, and failure recovery.
-- **LLM Harness Engineering** — Building evaluation and testing infrastructure for language model outputs: prompt versioning, structured output validation, regression harnesses, and benchmark pipelines.
+- **LLM Harness/Loop/Graph Engineering** — Building evaluation and testing infrastructure for language model outputs: prompt versioning, structured output validation, regression harnesses, and benchmark pipelines.
 - **Fullstack Product Development** — Still shipping real products. TypeScript, React, Supabase — from schema to UI.
 
 ---
